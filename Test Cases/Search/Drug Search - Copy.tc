@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Drug Search - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43f6f514-8a98-4e81-9d62-191e1b111ca7</testCaseGuid>
+   <variable>
+      <defaultValue>'HK'</defaultValue>
+      <description></description>
+      <id>fdf72c48-365e-4c9e-9787-ae7bc104756f</id>
+      <masked>false</masked>
+      <name>countryCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e98c90a2-179f-4943-b458-7d0a76964094</id>
+      <masked>false</masked>
+      <name>searchString</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>3f2f7ddf-b4cc-4c69-9db0-2aacb2141b8f</id>
+      <masked>false</masked>
+      <name>page</name>
+   </variable>
+   <variable>
+      <defaultValue>10</defaultValue>
+      <description></description>
+      <id>d49d09d7-c3e9-4d59-b23e-7132a13f3f30</id>
+      <masked>false</masked>
+      <name>recordPerPage</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>09608ad2-d54e-41f6-87b1-ddac10628653</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

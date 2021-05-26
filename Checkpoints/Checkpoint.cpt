@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/HK Brandname</source-url>
+   </source-info>
+   <taken-date>2021-05-26T17:55:32.513</taken-date>
+   <column-names>
+      <column-name>﻿Brandname</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Airomir",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Cavilon Durable Barrier Cream",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Cavilon No Sting Barrier Film",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Qvar",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Respocort",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Respolin",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Titralac",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Mepivastesin",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

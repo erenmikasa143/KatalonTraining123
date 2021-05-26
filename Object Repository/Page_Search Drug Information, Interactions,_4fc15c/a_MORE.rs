@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_MORE</name>
+   <tag></tag>
+   <elementGuidId>c557d67b-840d-4331-b6c6-d3152b408b67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'MORE')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.more-btn.float-right > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://specialty.mims.com/multi-specialty/news?country=philippines&amp;_gl=1*risqik*_ga*MjQ0NjQ0NDU5LjE2MjE5MzI0MzA.*_ga_P4JX9J65W6*MTYyMTkzMjQzMC4xLjEuMTYyMTkzMjU2MS4w*_ga_Y5P89LRMRM*MTYyMTkzMjQzMC4xLjEuMTYyMTkzMjU2MS4w&amp;_ga=2.27042493.1662085812.1621932431-244644459.1621932430</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MORE</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid-home mb-3&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col-xl-9 col-lg-8 col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-8 col-lg-6 col-md-6&quot;]/div[@class=&quot;local-news-container&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;more-btn float-right&quot;]/a[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'MORE')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='top medical news'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEARCH'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Early remdesivir initiation optimal in moderate-to-severe COVID-19'])[1]/preceding::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PCOS ups risk of hypertension in women'])[1]/preceding::a[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MORE']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://specialty.mims.com/multi-specialty/news?country=philippines&amp;_gl=1*risqik*_ga*MjQ0NjQ0NDU5LjE2MjE5MzI0MzA.*_ga_P4JX9J65W6*MTYyMTkzMjQzMC4xLjEuMTYyMTkzMjU2MS4w*_ga_Y5P89LRMRM*MTYyMTkzMjQzMC4xLjEuMTYyMTkzMjU2MS4w&amp;_ga=2.27042493.1662085812.1621932431-244644459.1621932430')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/a</value>
+   </webElementXpaths>
+</WebElementEntity>

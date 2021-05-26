@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Drug Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>355916e2-c639-4d7b-b793-6d8e466b092e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc688a0b-8f65-49e1-a9ac-e99810a0daae</id>
+      <masked>false</masked>
+      <name>Brandname</name>
+   </variable>
+</TestCaseEntity>
